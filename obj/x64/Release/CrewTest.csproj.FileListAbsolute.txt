@@ -1,0 +1,8 @@
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\bin\x64\Release\CrewTest.exe.config
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\bin\x64\Release\CrewTest.exe
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\bin\x64\Release\CrewTest.pdb
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\bin\x64\Release\Google.OrTools.dll
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\bin\x64\Release\Google.Protobuf.dll
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\obj\x64\Release\CrewTest.csprojResolveAssemblyReference.cache
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\obj\x64\Release\CrewTest.exe
+C:\Users\whettige\Documents\Visual Studio 2013\Projects\RuleEngine\CrewTest\CrewTest\CrewTest\obj\x64\Release\CrewTest.pdb
